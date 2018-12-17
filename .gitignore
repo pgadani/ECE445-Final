@@ -1,3 +1,6 @@
+# Data sources
+CreditCardFraud/*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
